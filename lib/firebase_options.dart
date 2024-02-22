@@ -48,12 +48,12 @@
 
 //   static const FirebaseOptions web = FirebaseOptions(
 //   apiKey: "AIzaSyDa24P4797D156EU3kuf9wb4oPXMNUq_m8",
-  authDomain: "fir-239e0.firebaseapp.com",
-  projectId: "fir-239e0",
-  storageBucket: "fir-239e0.appspot.com",
-  messagingSenderId: "992696514201",
-  appId: "1:992696514201:web:5f5f9a26d4e7e46d766a08",
-  measurementId: "G-J14K4PBKE1"
+//   authDomain: "fir-239e0.firebaseapp.com",
+//   projectId: "fir-239e0",
+//   storageBucket: "fir-239e0.appspot.com",
+//   messagingSenderId: "992696514201",
+//   appId: "1:992696514201:web:5f5f9a26d4e7e46d766a08",
+//   measurementId: "G-J14K4PBKE1"
 //   );
 
 //   static const FirebaseOptions android = FirebaseOptions(
