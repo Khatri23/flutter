@@ -47,13 +47,13 @@
 //   }
 
 //   static const FirebaseOptions web = FirebaseOptions(
-//     apiKey: 'AIzaSyCo2Xj8Ul9HQ5GNq0Q9wXHh-XIqjcG71Uw',
-//     appId: '1:632534901534:web:723b014075545928511f0f',
-//     messagingSenderId: '632534901534',
-//     projectId: 'secondsem-1cb59',
-//     authDomain: 'secondsem-1cb59.firebaseapp.com',
-//     storageBucket: 'secondsem-1cb59.appspot.com',
-//     measurementId: 'G-FH4S903JFH',
+//   apiKey: "AIzaSyDa24P4797D156EU3kuf9wb4oPXMNUq_m8",
+  authDomain: "fir-239e0.firebaseapp.com",
+  projectId: "fir-239e0",
+  storageBucket: "fir-239e0.appspot.com",
+  messagingSenderId: "992696514201",
+  appId: "1:992696514201:web:5f5f9a26d4e7e46d766a08",
+  measurementId: "G-J14K4PBKE1"
 //   );
 
 //   static const FirebaseOptions android = FirebaseOptions(
